@@ -1,0 +1,15 @@
+{
+  "name": "node.jspro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello welcome to the field"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
